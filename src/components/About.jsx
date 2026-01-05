@@ -11,13 +11,17 @@ const About = () => {
 
           <div className="space-y-6 text-gray-600 dark:text-gray-400 leading-relaxed">
             <p className="text-lg">
-              Hello! I'm <strong className="text-black dark:text-white">Md Saiful Haque</strong>, a passionate MERN Stack Developer with a strong foundation in modern web development technologies and hands-on project experience in building full-stack web applications.
+              Hello! I'm <strong className="text-black dark:text-white">Md Saiful Haque</strong>, a motivated <strong className="text-black dark:text-white">MERN Stack Developer</strong> with a strong interest in building modern, scalable, and user-friendly web applications. My programming journey began with a curiosity about how websites work, which gradually turned into a focused pursuit of full-stack web development.
             </p>
 
             <p className='text-lg'>
-              I recently completed a 6-month intensive web development course, where I gained hands-on experience in both frontend and backend technologies. On the frontend, I have worked with HTML5, CSS3, TailwindCSS, JavaScript, React, and Next.js, while on the backend, I have experience with Node.js, Express.js, and MongoDB. I am also proficient with development tools such as Git & GitHub, VS Code, Vercel, Vite, NPM, Firebase, and Postman.
-              Although I do not have formal work experience yet, I have completed several projects during my course that strengthened my problem-solving, coding, and project management skills. I am eager to apply my knowledge in a professional environment, learn from real-world challenges, and contribute effectively to a team. I am highly motivated, quick to learn, and passionate about building high-quality, user-friendly web applications.
-
+              I recently completed a 6-month intensive web development course, where I gained hands-on experience working with both frontend and backend technologies. On the frontend, I enjoy creating clean, responsive, and interactive user interfaces using <strong className="text-black dark:text-white">HTML5, CSS3, TailwindCSS, JavaScript, React, and Next.js.</strong> On the backend, I have worked with <strong className="text-black dark:text-white">Node.js, Express.js, and MongoDB</strong>, focusing on building efficient APIs and handling data securely. I am also comfortable using tools such as <strong className="text-black dark:text-white">Git & GitHub, VS Code, Vercel, Vite, NPM, Firebase, and Postman</strong> in my development workflow.
+            </p>
+            <p className='text-lg'>
+              I particularly enjoy working on projects where I can solve real-world problems, learn new technologies, and continuously improve my skills. I like writing clean, maintainable code and understanding how different parts of an application work together. Even though I do not have professional work experience yet, the projects I completed during my course helped me develop strong problem-solving skills, teamwork abilities, and a disciplined approach to learning.
+            </p>
+            <p className='text-lg'>
+              Outside of programming, I enjoy activities that help me stay focused and balanced, such as exploring new technologies, learning from tech communities, and spending time on personal growth. I consider myself a curious, hardworking, and adaptable person who is always eager to learn and take on new challenges. My goal is to grow as a professional developer and contribute meaningfully to a team while building impactful digital solutions.
             </p>
           </div>
 

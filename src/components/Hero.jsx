@@ -47,25 +47,16 @@ const Hero = () => {
                 <span className="material-icons">code</span>
               </a>
               <a
-                href="https://linkedin.com/in/saiful-haque"
+                href="https://www.linkedin.com/in/md-saiful-haque12/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-12 h-12 bg-gray-100 dark:bg-gray-800 rounded-full flex items-center justify-center hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors"
                 aria-label="LinkedIn"
               >
-                <span className="material-icons">work</span>
+                <span className="material-icons">business</span>
               </a>
               <a
-                href="https://twitter.com/saiful_haque"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-12 h-12 bg-gray-100 dark:bg-gray-800 rounded-full flex items-center justify-center hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors"
-                aria-label="Twitter"
-              >
-                <span className="material-icons">alternate_email</span>
-              </a>
-              <a
-                href="https://facebook.com/saiful.haque"
+                href="https://www.facebook.com/me/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-12 h-12 bg-gray-100 dark:bg-gray-800 rounded-full flex items-center justify-center hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors"

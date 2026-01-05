@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   const socialLinks = [
     { icon: 'code', label: 'GitHub', href: 'https://github.com/Md-Saiful-Haque' },
-    { icon: 'work', label: 'LinkedIn', href: 'https://www.linkedin.com/in/md-saiful-haque12/' },
+    { icon: 'business', label: 'LinkedIn', href: 'https://www.linkedin.com/in/md-saiful-haque12/' },
     { icon: 'facebook', label: 'Facebook', href: 'https://www.facebook.com/me/' }
   ];
 
